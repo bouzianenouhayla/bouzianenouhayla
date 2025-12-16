@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Nouhayla Bouziane, a data scientist with a passion for using data to solve complex problems and drive business decisions. I have a strong background in mathematics, statistics and computer science, I love working with data to uncover insights and patterns.
+Hello, I'm Nouhayla Bouziane, a data scientist/ML engineer with a passion for using data to solve complex problems and drive business decisions. I have a strong background in mathematics, statistics and computer science, I love working with data to uncover insights and patterns.
 
 
 # 💻 Tech Stack:
