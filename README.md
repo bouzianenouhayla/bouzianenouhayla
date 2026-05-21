@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, I'm Nouhayla Bouziane, an ML engineer with a passion for using data to solve complex problems and drive business decisions. I have a strong background in mathematics, statistics and computer science, I love working with data to uncover insights and patterns.
+Hello, I'm Nouhayla Bouziane, ML Engineer & Data Scientist with experience building production AI/ML systems, I work across the full stack: from model training and fine-tuning to deployment and evaluation. 
+
+I am drawn to environments where AI is central to what's being built - where understanding the architecture deeply, engineering it reliably, and making it actually work in production all matter equally.
 
 
 # 💻 Tech Stack:
